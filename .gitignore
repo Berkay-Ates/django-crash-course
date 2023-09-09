@@ -1,0 +1,50 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# IDE
+.idea/
+
+# Virtualenv
+.venv/
+env/
+ENV/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files
+*.swp
+*~
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Secret key file
+*.key
+
+# Development sqlite database
+db.sqlite3
+
+# Translation files
+*.mo
+
+# .DS_Store files (macOS)
+.DS_Store
+
+# Thumbnails (if you are using sorl-thumbnail)
+thumbs/
